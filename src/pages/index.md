@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Childcare with Faith
+title: Prestigious Religious Nannies
 <!-- image: /img/home-jumbotron.jpg -->
 heading: Prestigious Religious Nannies
 subheading: Quality care with prayer
